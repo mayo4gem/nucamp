@@ -52,3 +52,18 @@ header h2 {
 .carousel {
     border: solid #5637DD;
 }
+
+.modal-header{
+    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+    color: white;
+}
+
+.form-row .btn{
+    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+    color: white;
+}
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
